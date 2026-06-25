@@ -2,7 +2,7 @@
   color-scheme: light dark;
 
   --background-body: light-dark(#f3f3ff, #111115);
-  --background-code: light-dark(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.5));
+  --background-code: light-dark(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.5));
   --background-blockquote: light-dark(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.2));
   --primary-color: light-dark(#c500c5, #ff00ff);
   --text-color: light-dark(#665555, #ccbbbb);
@@ -135,7 +135,7 @@ blockquote {
 
 code {
   background: var(--background-code);
-  color: light-dark(#333, #eedddd);
+  color: light-dark(#554444, #eedddd);
   outline: 2px dotted var(--text-color-alternative);
   padding: 0 0.35em;
   font-family: 'Courier New', Courier, Consolas, monospace;

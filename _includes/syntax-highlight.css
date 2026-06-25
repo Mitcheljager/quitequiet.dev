@@ -1,0 +1,11 @@
+.c  { color: light-dark(#705c5c, #8d7f7f); font-style: italic; }
+.s  { color: light-dark(#576101, #98a23c) }
+.k  { color: light-dark(#ad3967, #c678dd) }
+.k  { color: light-dark(#ad3967, #c678dd) }
+.n  { color: light-dark(#b92211, #d34a3c) }
+.m  { color: light-dark(#924b08, #d09966) }
+.nt { color: light-dark(#b92211, #d34a3c) }
+.na { color: light-dark(#924b08, #d09966) }
+.nc { color: light-dark(#8d5e07, #e5c07b) }
+.nf { color: light-dark(#24669b, #61afef) }
+.kt { color: light-dark(#ad3967, #c678dd) }
