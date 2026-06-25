@@ -57,6 +57,19 @@ main {
   margin: 0 auto;
 }
 
+footer {
+  padding-top: var(--gutter);
+  margin-top: var(--gutter);
+  color: var(--text-color-alternative);
+  font-size: 0.8;
+
+  &::before {
+    content: "";
+    display: block;
+    border: 1px dashed currentColor;
+  }
+}
+
 h1, h2, h3, h4, h5 {
   margin: calc(var(--gutter)) 0 calc(var(--gutter) / 2);
   font-weight: 800;
