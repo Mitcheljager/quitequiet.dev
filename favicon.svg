@@ -1,0 +1,17 @@
+<svg width="320px" height="320px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      fill: #111115;
+      font-size: 28px;
+      font-family: Cambria, Garamond, Palatino, serif;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      text {
+        fill: #f3f3ff;
+        }
+    }
+  </style>
+
+  <text y="20">qq</text>
+</svg>
