@@ -9,7 +9,7 @@ I am a web and game developer wanting to contribute to the world through writing
 
 The internet is rapidly devolving through the involvement of LLMs, agents, and other tools not fit for a world made for sharing. These pages are meant as a respite of all that trouble. Together we can make the web into something worthwhile, still. So please browse and let my quarrels be a source of whatever it is you seek.
 
-<strong aria-role="heading" aria-level="1">Latest ramblings</strong>
+<strong aria-role="heading" aria-level="2">Latest ramblings</strong>
 
 <ul>
   {% for post in site.posts %}
