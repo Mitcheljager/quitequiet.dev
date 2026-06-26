@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Developing developer"
+title: "Diary of a developing developer"
 ---
 
 <strong aria-role="heading" aria-level="1">Diary of a developing developer</strong>
