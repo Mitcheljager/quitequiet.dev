@@ -163,3 +163,48 @@ time {
   font-style: italic;
   font-size: 0.8em;
 }
+
+video,
+img {
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  background: var(--background-code);
+}
+
+@media (min-width: 750px) {
+  video,
+  img {
+    width: 120%;
+    margin-left: -10%;
+  }
+}
+
+@media (min-width: 900px) {
+  video,
+  img {
+    width: 140%;
+    margin-left: -20%;
+  }
+}
+
+img[inline] {
+  width: auto;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+figure {
+  margin: 1.5rem 0;
+
+  img {
+    display: block;
+  }
+}
+
+figcaption {
+  color: var(--text-color-alternative);
+  font-size: 0.8em;
+  text-align: center;
+  font-style: italic;
+}
