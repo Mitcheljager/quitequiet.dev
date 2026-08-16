@@ -11,8 +11,6 @@ I was in need of some rather simple clouds for my Unity project. I was specifica
 <video src="/assets/2026-07-05-unity-retro-clouds/clouds-8.mp4" muted autoplay playsinline loop></video>
 <video src="/assets/2026-07-05-unity-retro-clouds/clouds-6.mp4" muted autoplay playsinline loop></video>
 
-Thank you for reading <3
-
 ## The shader
 
 For the sake of this page I will go with the assumption that you have some basic knowledge of Shader Graph, enough to re-create my set up from screenshots alone. I will go over what the shader looks like and what it does, as well as some choices I made.
