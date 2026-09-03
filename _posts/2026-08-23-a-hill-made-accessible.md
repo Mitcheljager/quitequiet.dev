@@ -4,7 +4,7 @@ title: "A hill made accessible"
 post_url: "a-hill-made-accessible"
 ---
 
-For this post I will be going over a story that never happened in order to set my thoughts in order. The story will lead to a conclusion, one you may be able to pick up on as you read, but not one I wish to lead.
+For this post I will be going over a story that never happened in order to set my thoughts straight. The story will lead to a conclusion, one you may be able to pick up on as you read, but not one I wish to lead with.
 
 ## A story that never happened:
 
