@@ -20,7 +20,7 @@ As is the case with all things popular, interest wanes over time. This can be at
 
 It would be easy enough to end the story there, and in many ways it does, but I don't think that would be fair. Years later brave adventurers once again discover this hill, unbeknownst its previous popularity. Long rotten benches, crumbling buildings, and overgrown cable carts sit amongst the trees and plants. A ghost town filled with memories looms in the background. These things tell an interesting and impressive story all on their own. A story worth sharing, a story worth repeating.
 
-So all in all, I went on a journey and decided to share it with the world. The world wanted their part, some wanted to capitalize on the popularity, and a place I once loved turned into something I didn't. In the process many were able to enjoy something they otherwise wouldn't have been able to, and for a while some were able to benefit greatly. Perhaps that isn't so bad, but I will think twice before sharing next time, and that's a shame.
+So all in all, I went on a journey and decided to share it with the world. The world wanted their part, some wanted to capitalize on the popularity, and a place I once loved turned into something I didn't. In the process many were able to enjoy something they otherwise wouldn't have been able to, and for a while some were able to benefit greatly. Perhaps that isn't so bad, but it bears asking; does the convenience outweigh the journey?
 
 ---
 
