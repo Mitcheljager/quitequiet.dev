@@ -19,7 +19,12 @@ The internet is rapidly devolving through the involvement of LLMs, agents, and o
 <a href="https://github.com/Mitcheljager/deep-dead" target="_blank">Deep Dead</a> - A painfully unfinished attempt at a top-down twin-stick shooter, to return to another day. <br>
 <a href="https://play.google.com/store/apps/details?id=com.quitequiet.gridsome" target="_blank" rel="noreferrer noopener">Gridsome</a> - A far too difficult mobile puzzle game, desperate for more attention.
 
-<strong aria-role="heading" aria-level="2">Latest ramblings</strong>
+<strong aria-role="heading" aria-level="2" id="posts">Latest ramblings</strong>
 
-{% for post in site.posts %}- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+<nav aria-labelledby="posts">
+  {% for post in site.posts %}
+    {% if post.title != page.title %}
+      <a href="{{ post.url }}">{{ post.title }}</a> <br>
+    {% endif %}
+  {% endfor %}
+</nav>
