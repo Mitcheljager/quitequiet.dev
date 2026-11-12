@@ -44,5 +44,3 @@ A 15 minute experience is all I will strive for. Something I can put out there a
 ## That's enough for now
 
 We have a setting, an idea of what the gameplay might look like, and the vague blurry outlines of a plan seen through a foggy window. I started this project over a month ago and have made good progress, just about none of which is visible in this very first devlog. The ramblings you just read are the start, in the next instalment I hope to show something substantial, something that proves (to myself) that I can do this.
-
-Thank you for reading <3

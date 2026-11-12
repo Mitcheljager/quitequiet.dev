@@ -116,5 +116,3 @@ From here you can do whatever you want. One neat trick to create a bit more dept
   <img src="/assets/2026-07-05-unity-retro-clouds/clouds-shader-19.jpg" alt="Evening scene with soft orange clouds" width="1517" height="827" loading="lazy" />
   <figcaption>Several different end results</figcaption>
 </figure>
-
-Thank you for reading <3

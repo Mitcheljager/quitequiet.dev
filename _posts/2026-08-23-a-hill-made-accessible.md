@@ -29,5 +29,3 @@ So that was a whole lot of rather simple story telling, one you probably attache
 This story came about from, what else, AI. It came from a discussion arguing that AI is a wonderful accessibility tool, allowing those without artistic skill, those without programming knowledge, those without whatever ability they need, to still fulfill their dreams. On a surface level I believe that is true, but with the tone of our story that never happened in mind I also believe that ultimately accessibility is used as an excuse, a means to an end. This need to involve everyone is not out of a want to share, but out of a want for more paying customers. The homogenization of the experience means more short term success, but the journey, the obscurity, and the effort you have to put in is what makes the end result special. Skipping to the end will indeed allow more people to partake, but in doing so you dilute the thing itself.
 
 It's though, as ultimately the idea of everyone being to express themselves in more ways than they previously could is amazing, but sooner or later the standard for what it means to be amazing will shift.
-
-Thank you for reading <3
